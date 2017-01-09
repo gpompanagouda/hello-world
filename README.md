@@ -1,2 +1,3 @@
 # hello-world
-First repository for learning
+Hi All,
+I'm just editing this to learn how branching works!
